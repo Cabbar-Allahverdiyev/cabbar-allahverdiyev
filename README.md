@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Cabbar</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
+<!--<p align="center">
+  <img width="700" align="center" src="https://media2.giphy.com/media/2dbnhlCH2JhwdI2gHp/giphy.gif?cid=790b761190f0288dab3591a939e563eae0d5c35985232c77&rid=giphy.gif&ct=g" alt="demo"/>
+</p>-->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cabbar-allahverdiyev&label=Profile%20views&color=0e75b6&style=flat" alt="cabbar-allahverdiyev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabbar-allahverdiyev" alt="cabbar-allahverdiyev" /></a> </p>
