@@ -1,9 +1,9 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Cabbar</h1> 
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
-<p align="center">
+<!--<p align="center">
   <img width="700" align="center" src="https://media2.giphy.com/media/2dbnhlCH2JhwdI2gHp/giphy.gif?cid=790b761190f0288dab3591a939e563eae0d5c35985232c77&rid=giphy.gif&ct=g" alt="demo"/>
-</p>
+</p>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cabbar-allahverdiyev&label=Profile%20views&color=0e75b6&style=flat" alt="cabbar-allahverdiyev" /> </p>
 
